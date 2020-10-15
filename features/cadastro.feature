@@ -9,7 +9,7 @@ Funcionalidade: Cadastro de usúarios
     
       @spring1 @logout 
     Cenário: Cadastro Simples
-    Quando faço cadastro com "Fernando", "fernando334444@qaninja.net" e "123456"
+    Quando faço cadastro com "Fernando", "fernando3344445@qaninja.net" e "123456"
     Então vejo a mensagem "Olá, Fernando"
                     
               @spring2
